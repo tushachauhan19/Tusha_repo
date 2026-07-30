@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence. Machine Learning is a subset of AI that allows computers to learn from data without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers. AI is widely used in healthcare, finance, robotics, education, cybersecurity, transportation, and many other industries.
+
+Natural Language Processing (NLP) enables computers to understand and generate human language. Computer Vision enables machines to interpret images and videos.
+
+Generative AI is a modern branch of AI capable of creating text, images, videos, music, and code using deep learning models.
